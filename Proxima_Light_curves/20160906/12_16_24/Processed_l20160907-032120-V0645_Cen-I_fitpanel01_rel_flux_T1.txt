@@ -1,0 +1,39 @@
+                          Fit Results for Data Set 1 (rel_flux_T1)
+----------------------------------------------------------------------------------------------------------
+
+    Parameter                Type         Best Fit        Prior Center       Prior Width        Step Size 
+    --------------------   -------      ------------      ------------       -----------       -----------
+User Specified Parameters
+    Orbital Period (days)   Fixed       11.186000000
+    Orbital Eccentricity    Fixed        0.130000000
+    Arg. of Peri. (deg)     Fixed      310.000000000
+    Stellar Radius (Rsun)   Fixed        0.316000000
+Transit Parameters
+    Baseline Flux (raw)     Fitted       0.193644369       0.194639617          Infinity       0.100000000
+    (Rp/R*)^2               Fitted       0.010336367       0.002977322          Infinity       0.002977322
+    a/R*                    LOCKED      10.000000000      10.000000000       0.000000000       1.000000000
+    Tc                      Fitted 2457638.581237971 2457638.610000000          Infinity       0.010000000
+    Inclination (deg)       Fitted      50.960998407      46.000000000          Infinity       1.000000000
+    Quad LD u1              LOCKED       0.286250010       0.286250010       0.000000000       0.100000000
+    Quad LD u2              LOCKED       0.359850000       0.359850000       0.000000000       0.100000000
+Detrend Parameters
+    AIRMASS                 Fitted       0.000002132       0.000000000          Infinity       0.100000000
+Calculated From Model
+    Impact Angle             Calc        5.575330589
+    t14 (d)                  Calc                NaN
+    t14 (h:m:s)              Calc        00:00:�
+    t23 (d)                  Calc                NaN
+    tau (d)                  Calc                NaN
+    Stellar Density (cgs)    Calc                NaN
+    (est)Spectral Type       Calc      error
+    Planet Radius (Rjup)     Calc        0.311917201
+Fit Statistics
+    RMS (normalized)         Stat        0.026930838
+    chi^2/dof                Stat      303.203568057
+    BIC                      Stat    87986.072561391
+    Degrees of freedom       Stat      295
+    chi^2                    Stat    89445.052576932
+    Number of steps taken    Stat      383
+Fit Settings
+    Max steps allowed      Setting   20000
+    Tolerance of fit       Setting   1E-10
